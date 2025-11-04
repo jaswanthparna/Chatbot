@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain
+langchain-core
+langchain-google-genai
+uuid
+google-generativeai
+python-dotenv
+langgraph-checkpoint-sqlite
+langchain_community
+pip install -U ddgs
+pip install duckduckgo-search
+
